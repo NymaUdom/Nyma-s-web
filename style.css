@@ -1,0 +1,17 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: medium; 
+background-color: wheat
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #60A6AB
+}
+
+header {
+    font-size: 100px;
+    color: white;
+    font-style: oblique;
+}
